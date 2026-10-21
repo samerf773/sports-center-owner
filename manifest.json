@@ -1,11 +1,11 @@
 {
-    "name": "Sports Center Owner",
-    "short_name": "SC Owner",
+    "name": "LSN Owner",
+    "short_name": "LSN Owner",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0B1220",
     "theme_color": "#0B1220",
-    "description": "Live dashboard, courts and bookings for the sports center owner.",
+    "description": "Live dashboard, courts and bookings for the LSN Sports Club owner.",
     "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
